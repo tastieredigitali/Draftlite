@@ -23,7 +23,7 @@
 
 #define MyAppName "DraftLite"
 #define MyAppPublisher "Tastiere Digitali srls"
-#define MyAppURL "https://github.com/Giuseppe-sciarra/Draftlite"
+#define MyAppURL "https://github.com/tastieredigitali/Draftlite"
 #define MyAppExeName "DraftLite.exe"
 
 [Setup]

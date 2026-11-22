@@ -11,6 +11,10 @@ sta zitto su tutto il resto. Niente licenze, niente abbonamenti, un solo eseguib
 
 ---
 
+## 1.7.1: nuovo indirizzo su GitHub
+
+- Il controllo degli aggiornamenti e i link puntano a [github.com/tastieredigitali/Draftlite](https://github.com/tastieredigitali/Draftlite), la nuova casa del progetto.
+
 ## 1.7.0: filigrana, colori e correzioni
 
 - **Filigrana**: nel PDF sta sotto al testo, centrata in diagonale e grande quanto il foglio permette.
@@ -266,8 +270,8 @@ I file della release hanno sempre lo stesso nome, quindi questi due link valgono
 puntano da soli all'ultima versione:
 
 ```
-https://github.com/Giuseppe-sciarra/Draftlite/releases/latest/download/DraftLite-Setup.exe
-https://github.com/Giuseppe-sciarra/Draftlite/releases/latest/download/DraftLite-Portabile.exe
+https://github.com/tastieredigitali/Draftlite/releases/latest/download/DraftLite-Setup.exe
+https://github.com/tastieredigitali/Draftlite/releases/latest/download/DraftLite-Portabile.exe
 ```
 
 ## Come è fatto
